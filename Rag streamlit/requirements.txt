@@ -1,0 +1,10 @@
+```plaintext
+streamlit>=1.31.0
+langchain>=0.1.8
+langchain-community>=0.0.18
+langchain-core>=0.1.28
+transformers>=4.38.2
+PyPDF2>=3.0.1
+faiss-cpu>=1.7.4
+torch>=2.1.2
+python-dotenv>=1.0.1
